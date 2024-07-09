@@ -1,9 +1,9 @@
-
+![Untitledvideo-MadewithClipchamp4-ezgif com-video-to-gif-converter](https://github.com/TalRodgold/Window-systems-engineering-shopping_list/assets/91063814/987e29d4-002b-4118-9c47-92d78e55abb6)
 
 ## Shopping List Manager
 
 This project is a Shopping List Manager application, implemented using the Model-View-Controller (MVC) architecture. It allows users to easily maintain a shopping list with features to add, delete, edit, and check items. The application leverages cloud services for enhanced functionality, such as searching recipes based on ingredients and using AI image recognition to convert images into list items.
-![Untitledvideo-MadewithClipchamp4-ezgif com-video-to-gif-converter](https://github.com/TalRodgold/Window-systems-engineering-shopping_list/assets/91063814/987e29d4-002b-4118-9c47-92d78e55abb6)
+
 ### Features
 - **Add, Delete, Edit, and Check Items**: Easily manage your shopping list with intuitive controls.
 - **Recipe Search**: Find recipes based on the ingredients in your shopping list using cloud-based search services.
