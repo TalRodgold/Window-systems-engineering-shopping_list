@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aCftxX4Dpml+8yYgudxn32Gw4cG4WinZ5oz7RwsQzLM=",
+  "Source": "shopping-server",
+  "BasePath": "_content/shopping-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
